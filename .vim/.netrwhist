@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/local'
+let g:netrw_dirhist_2='/usr'
+let g:netrw_dirhist_3='/usr/local/git_tree/main/apps/adminscripts/security'
+let g:netrw_dirhist_4='/usr/local/git_tree/main/lib/Bookings/XY/Command/Pulse'
+let g:netrw_dirhist_5='/home/pverma/devtools/tmux-autoconcat'
+let g:netrw_dirhist_6='/home/pverma/.terminfo'
+let g:netrw_dirhist_7='/home/pverma/.terminfo/x'
